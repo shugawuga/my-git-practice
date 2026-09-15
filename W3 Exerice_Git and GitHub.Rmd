@@ -1,0 +1,48 @@
+---
+title: "W3 Exercise_my-git-practice"
+author: "Pablo Valenzuela"
+date: "2026-09-14"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+#Part 4: Reflection:
+
+#Frankly, the assignment was a bit challenging because I fell behind during last
+#week's class instructions, but after revisiting the PDF and following the steps,
+#everything made more sense. 
+
+#The easiest part of the exercise was creating and editing the R script since 
+#I am already familiar with basic R programming. I now have a better understanding
+#of how Git tracks changes to files over time. The most confusing part was 
+#understanding the workflow of staging, committing and pushing changes because 
+#those steps initially seemed very similar. The assignment helped immensely 
+#to learn that changes must first be made to a file, then staged, committed 
+#with a message and finally pushed to GitHub. I also learned how to verify that 
+#changes are synced between RStudio and GitHub.Overall, this exercise greatly 
+#improved my understanding and confidence of Git and GitHub and showed me 
+#how they can be used to organize, track and collaborate on projects/files. 
+
+```
+
+```{r}
+
+#The URL of your GitHub repository
+#From my GitHub page
+
+# https://github.com/shugawuga/my-git-practice
+
+
+
+
+
+
+```
+
+
+
